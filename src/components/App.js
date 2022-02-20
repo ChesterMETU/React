@@ -13,9 +13,6 @@ const App = () => {
         <div className="wheather-container">
           <WheatherInfo />
         </div>
-        <div></div>
-        <div></div>
-        <div></div>
       </div>
     </div>
   );
